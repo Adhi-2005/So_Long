@@ -35,7 +35,7 @@ To run the game on macOS:
    make
 3. Start the game:
    ```bash
- ./so_long maps/map1.ber
+    ./so_long maps/map1.ber
 
 ## Usage
 To play the game, you'll need a valid `.ber` map file. Sample maps are available in the `maps` directory. The game automatically parses the map to set up the walls, player position, collectible items, and exit. You can also create custom maps in a text editor.
